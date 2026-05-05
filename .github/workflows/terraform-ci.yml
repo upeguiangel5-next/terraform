@@ -17,7 +17,7 @@ permissions:
   contents: read    # Requerido para actions/checkout
 
 env:
-  AWS_REGION: us-east-1
+  AWS_REGION: eu-north-1
   TF_DIR: terraform
 
 jobs:
